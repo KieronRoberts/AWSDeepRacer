@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="50" height="50"> AWS DeepRacer
+# <img src="https://github.com/KieronRoberts/AWSDeepRacer/assets/107185233/995563cd-905d-47a7-8bf9-9cf4599f4cf3" width="50" height="50"> AWS DeepRacer
 
 This repository serves as libary for the iteration of my AWS Deep Racer Code that were created whilst attending an event in London.
 
