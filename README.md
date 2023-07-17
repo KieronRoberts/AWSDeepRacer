@@ -23,6 +23,8 @@ AWS DeepRacer is a fully autonomous 1/18th scale race car driven by reinforcemen
 
 I am a Junior Software developer working mainly with Mircosoft PowerPlatforms, this repository is part of a larger portfolio I am developing as part of my personal education whilst transtioning from low-code development.
 
+[Find my LinkedIn](https://www.linkedin.com/in/kieronroberts1/)
+
 ## Skills Learned
 
 At the event where I developed this code, I learnt how to:
